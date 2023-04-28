@@ -6,7 +6,6 @@
 - 📫 How to reach me: **sebastianfelenczak@gmail.com**
 
 - 🧑‍💼 I'm currently working on: **Getting better and be more consistent**
-- 
 <p align="left">
 </p>
 
