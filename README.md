@@ -6,8 +6,7 @@
 - 📫 How to reach me: **sebastianfelenczak@gmail.com**
 
 - 🧑‍💼 I'm currently working on: **Getting better and be more consistent**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
