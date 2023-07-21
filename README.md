@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sebastian!</h1>
 <h3 align="center">Passionate future Front-End Developer. {Another day; another step;}</h3>
 
-- 🌱 I’m currently learning **React.js + Laravel**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me: **sebastianfelenczak@gmail.com**
 
