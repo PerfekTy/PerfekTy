@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Sebastian!</h1>
 <h3 align="center">Passionate future Frontend/Fullstack Developer. {Another day, another step}</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning => **Next.js**
 
-- 📫 How to reach me: **sebastianfelenczak@gmail.com**
+- 📫 How to reach me => **sebastianfelenczak@gmail.com**
 
-- 🧑‍💼 I'm currently working on: **Thinking like developer**
+- 🧑‍💼 I'm currently working on => **Thinking like developer**
 
 <h4 align="center"⚙️>Currently I don't have any projects visible except my university, because I'm refactoring my whole github.</h4>  
 
