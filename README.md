@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sebastian!</h1>
-<h3 align="center">Passionate future Frontend/Fullstack Developer. {Another day, another step}</h3>
+<h3 align="center">Passionate Frontend/Fullstack Developer. {Another day, another step}</h3>
 
 - 🌱 I’m currently learning => **Vue.js, React Native, Three.js, WebGL**
 
