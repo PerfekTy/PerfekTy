@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning => **Vue.js, React Native, Three.js, WebGL**
 
-- 📫 How to reach me => **sebastianfelenczak@gmail.com**
+- 📫 How to reach me => **devby.sebastian@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
