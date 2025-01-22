@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sebastian!</h1>
-<h3 align="center">Passionate Frontend/Fullstack Developer. {Another day, another step}</h3>
+<h3 align="center">Passionate Frontend | Fullstack Developer. {Another day, another step}</h3>
 
 - 🌱 I’m currently learning => **Angular and .NET**
 
