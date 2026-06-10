@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sebastian!</h1>
 <h3 align="center">Passionate Frontend | Fullstack Developer. {Another day, another step}</h3>
 
-- 🌱 I’m currently learning => **Angular and .NET**
+- 🌱 I’m currently learning => **Swift and iOS development**
 
 - 📫 How to reach me => **devby@buildwithsebastian.com**
 
