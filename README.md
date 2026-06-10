@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning => **Swift and iOS development**
 
-- 📫 How to reach me => **devby.sebastain@gmail.com**
+- 📫 How to reach me => **devby.sebastian@gmail.com**
 
 - 📄 Working in => **Comarch S.A Kraków as a Software Developer (2y)** 
 
