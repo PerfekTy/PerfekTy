@@ -23,7 +23,7 @@ How to survive having your own company :accessibility:
 
 ## 📫 How to reach me
 
-[devby.sebastian@gmail.com](mailto:devby.sebastian@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sebastian-fele%C5%84czak-42805229b/)
+[devby.sebastian@gmail.com](mailto:devby.sebastian@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sebastian-fele%C5%84czak-42805229b/) · via [Saloonik](mailto:business@saloonik.com)
 
 ## 🛠 Languages and Tools
 
