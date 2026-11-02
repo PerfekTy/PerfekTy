@@ -19,7 +19,7 @@ Running a service business? Give it a try, the first 7 days are free.
 
 ## 🌱 Currently learning
 
-Swift and iOS development
+How to survive having your own company :accessibility:
 
 ## 📫 How to reach me
 
